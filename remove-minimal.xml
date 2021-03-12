@@ -203,7 +203,7 @@
     <!--<remove-project name="platform/external/x264"/>-->
     <!--<remove-project name="platform/external/xmlrpcpp"/>-->
     <remove-project name="platform/external/xmp_toolkit"/>
-    <remove-project name="platform/external/zopfli"/>
+    <!--<remove-project name="platform/external/zopfli"/>-->
     <remove-project name="platform/external/zxing"/>
 
     <remove-project name="platform/frameworks/compile/mclinker"/>
